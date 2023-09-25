@@ -1,0 +1,24 @@
+In Java Abstract is the keyword. 
+Remember, abstract can be a class or method both.
+
+- If the class doesn’t have any abstract method, then it is a concrete class.
+
+Abstract class cannot be final.
+
+- An abstract class cannot be instantiated i.e. one cannot create an object of an abstract class.
+
+- Although it is not required, an abstract class may have the declaration of one or more abstract methods.
+
+- Since the body of an abstract method cannot be implemented in an abstract class.
+
+- Non-abstract/normal methods can be implemented in an abstract class.
+
+- To use an abstract class it needs to be inherited from.
+
+- The class which inherits from the abstract class must implement all the abstract methods declared in the parent abstract class.
+
+- An abstract class can have everything else as same as a normal Java class has i.e. constructor, static variables and methods.
+
+- You cannot use the following modifier with abstract methods:
+
+Private,  static,  final, strictfp, synchronized,  native.
