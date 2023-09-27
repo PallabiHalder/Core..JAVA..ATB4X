@@ -7,7 +7,7 @@ public class Lab005 {
 
 
 
-        //Interview Questions :
+        //Interview Abs001 :
 
    // **    Two same case is not allowed in switch statement.**
 
