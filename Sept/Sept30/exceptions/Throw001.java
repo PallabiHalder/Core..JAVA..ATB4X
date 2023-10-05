@@ -1,4 +1,4 @@
-package Sept.sept30.exceptions;
+package Sept.Sept30.exceptions;
 
 import java.io.FileInputStream;
 

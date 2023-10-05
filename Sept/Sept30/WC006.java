@@ -1,4 +1,4 @@
-package Sept.sept30;
+package Sept.Sept30;
 
 public class WC006 {
 
