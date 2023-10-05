@@ -29,7 +29,7 @@ public class ATB {
     studentId[4] = 05 ;
 
 
-        System.out.println(studentId.toString ());
+        System.out.println(arr.toString());
 
 
 
