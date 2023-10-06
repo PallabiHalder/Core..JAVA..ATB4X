@@ -12,7 +12,7 @@ public class VectorEnumeration {
 
 
 
-        // Stack, Hashtable, Properties, Dictionary --> Legacy classes.
+        // Stack001, Hashtable, Properties, Dictionary --> Legacy classes.
 
 
 
